@@ -1,0 +1,14 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<dl>
+			<dt>自定义列表<//dt>
+			<dl><img scr="F:\web开发一\demo3\3\images/one.png" width="16" height="20"/>苹果橘子的那个梨</dl>
+			<dl><img scr="F:\web开发一\demo3\3\images/two.png" width="16" height="20"/>苹果橘子的那个梨</dl>
+			<dl><img scr="F:\web开发一\demo3\3\images/three.png" width="16" height="20"/>苹果橘子的那个梨</dl>
+			<dl><img scr="F:\web开发一\demo3\3\images/four.png" width="16" height="20"/>苹果橘子的那个梨</dl>
+			<dl><img scr="F:\web开发一\demo3\3\images/five.png" width="16" height="20"/>苹果橘子的那个梨</dl>
+		</dl>
+	</body>
+</html>
